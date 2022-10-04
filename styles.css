@@ -46,7 +46,7 @@ main .container {
 
 .image img {
 	display: block;
-	width: : 327px;
+	width:  327px;
 	height: 162px;
 	object-fit:cover;
 } 
